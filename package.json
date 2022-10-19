@@ -1,0 +1,13 @@
+{
+	"name": "design-token-automate",
+	"version": "1.0.0",
+	"scripts": {
+		"style-build": "style-dictionary build"
+	},
+	"devDependencies": {
+		"style-dictionary": "^3.7.1"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": ""
+}
